@@ -5,6 +5,8 @@
 
 # Hyper-parameter Tuning library
 
+![CV logo](https://github.com/balavenkatesh3322/hyperparameter_tuning/blob/master/logo.jpg)
+
 ## What is Hyper-parameter Tuning?
 Parameters which define the model architecture are referred to as hyperparameters and thus this process of searching for the ideal model architecture is referred to as hyperparameter tuning.
 
